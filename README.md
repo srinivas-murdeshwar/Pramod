@@ -1,2 +1,2 @@
-# Project1-IRIS-
+# IRIS
 Regression Machine Learing
