@@ -1,2 +1,2 @@
 # IRIS
-Regression Machine Learing
+Supervised Machine Learning Model
